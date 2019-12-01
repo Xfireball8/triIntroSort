@@ -50,5 +50,8 @@ public class Tas {
        return (indice%2 == 1) ? (indice-1)/2 : indice/2;
    }
 
+    /** Fonction qui
+     *
+     */
 
 }
